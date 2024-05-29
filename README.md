@@ -4,4 +4,4 @@ Machine Learning, addressing covid death prediction through AI solutions.
 
 I used various machine learning and deep learning approaches for this purpose and finalised
 on LSTM model (sequence to sequence).
-
+UPDATE: I won the competition! out of 150 teams, my team was one of the 7 joint winners
